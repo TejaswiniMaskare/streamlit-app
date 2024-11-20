@@ -1,3 +1,3 @@
 {
-    "connection_string": "Driver={ODBC Driver 17 for SQL Server};Server=192.168.2.14;Database=HOC_Employee_Portal_v2;Uid=HOC_Portal_DEV_User;Pwd=P@ss123!!;Encrypt=yes;TrustServerCertificate=yes;"
+    "connection_string": "Data Source=192.168.2.14;Initial Catalog=HOC_Employee_Portal_v2;User Id=HOC_Portal_DEV_User;Password=P@ss123!!;Encrypt=True;Trust Server Certificate=True"
 }
