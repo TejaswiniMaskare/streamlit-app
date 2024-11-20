@@ -1,0 +1,7 @@
+streamlit
+pandas
+pyodbc
+plotly
+matplotlib
+numpy
+streamlit-option-menu
