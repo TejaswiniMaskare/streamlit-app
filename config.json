@@ -1,5 +1,5 @@
 {
-    "connection_string": "Driver={ODBC Driver 18 for SQL Server};Server=192.168.2.14;Database=HOC_Employee_Portal_v2;UID=HOC_Portal_DEV_User;PWD=P@ss123!!;"
+    "connection_string": "Driver={ODBC Driver 18 for SQL Server};Server=192.168.2.14;Database=HOC_Employee_Portal_v2;UID=HOC_Portal_DEV_User;PWD=P@ss123!!;Trusted_Connection=yes;"
 }
 
 
