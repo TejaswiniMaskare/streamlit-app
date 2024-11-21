@@ -3,5 +3,3 @@
 }
 
 
-
-Driver={ODBC Driver 17 for SQL Server};Server=myServerAddress;Database=myDataBase;UID=myUsername;PWD=myPassword;
