@@ -183,7 +183,7 @@ import pymssql
 import streamlit as st
 
 connection = pymssql.connect(
-    server='192.168.2.14,1433',
+    server='192.168.2.14',
     user='HOC_Portal_DEV_User',   
     password='P@ss123!!',
     database='HOC_Employee_Portal_V2'
