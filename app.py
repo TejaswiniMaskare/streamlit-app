@@ -40,7 +40,7 @@ def getDataUsingQuery(query):
         return pd.DataFrame() 
 
 
-query = "SELECT * FROM [HOC_Employee_Portal_v2].[dbo].[dashboard_definition] WHERE is_active=1"
+query = "SELECT * FROM [dbo].[dashboard_definition] WHERE is_active=1"
 data = getDataUsingQuery(query)
 
 def plot_chart(chart_config, chart_data):
