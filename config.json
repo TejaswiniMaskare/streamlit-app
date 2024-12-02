@@ -1,3 +1,5 @@
+
+
 {
-    "connection_string" : "Driver={ODBC Driver 18 for SQL Server};Server=tcp:hocportaldev-server.database.windows.net,1433;Database=hocportaldev-database;Uid=hocportaldev-server-admin;Pwd=Manisha@07;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;"  
+    "connection_string" : "Driver={ODBC Driver 18 for SQL Server};Server=tcp:hoc-portal-dev-server.database.windows.net,1433;Database=HOC-Portal-Dev-DB;Uid=pratik;Pwd=Pass@123;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;"  
 }
